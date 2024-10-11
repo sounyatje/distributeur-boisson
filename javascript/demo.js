@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const imgBonk = document.getElementById('img-bonk');
     const imgNezuko = document.getElementById('nezuko-img');
     const nezukoBubble = document.getElementById('nezuko-bubble');
+    
 
     const BTN_0 = document.getElementById('btn-0');
     const BTN_1 = document.getElementById('btn-1');
